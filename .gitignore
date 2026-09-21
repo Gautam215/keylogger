@@ -1,0 +1,21 @@
+# Ignore Files
+*.pyi
+*.pyc
+*.pyd
+*.log
+
+# Ignore Virtual Environments
+.venv/
+.conda/
+venv/
+env/
+
+# Ignore Folders
+__pycache__
+.vscode/
+.idea/
+
+# Ignore Output directory
+build/
+out/
+/out/
